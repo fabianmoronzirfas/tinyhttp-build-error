@@ -5,6 +5,6 @@
     "strict": true,
     "lib": ["esnext"],
     "esModuleInterop": true,
-    "moduleResolution": "Node"
+    "moduleResolution": "node"
   }
 }
